@@ -1568,9 +1568,9 @@ first-chunk-stream@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/first-chunk-stream/-/first-chunk-stream-1.0.0.tgz#59bfb50cd905f60d7c394cd3d9acaab4e6ad934e"
 
-flow-bin@0.27.0:
-  version "0.27.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.27.0.tgz#d849a67b1251f73ab9071e9a3398d1eb538f189b"
+flow-bin@0.28.0:
+  version "0.28.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.28.0.tgz#f4b6bafa890bbc718fe8eeba84c5f86e152443e6"
   dependencies:
     bin-wrapper "^3.0.2"
     logalot "^2.0.0"
@@ -3863,8 +3863,8 @@ write-file-atomic@^1.2.0:
     slide "^1.1.5"
 
 ws@^1.1.0:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-1.1.4.tgz#57f40d036832e5f5055662a397c4de76ed66bf61"
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-1.1.5.tgz#cbd9e6e75e09fc5d2c90015f21f0c40875e0dd51"
   dependencies:
     options ">=0.0.5"
     ultron "1.0.x"
