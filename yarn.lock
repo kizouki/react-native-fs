@@ -1568,9 +1568,9 @@ first-chunk-stream@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/first-chunk-stream/-/first-chunk-stream-1.0.0.tgz#59bfb50cd905f60d7c394cd3d9acaab4e6ad934e"
 
-flow-bin@0.27.0:
-  version "0.27.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.27.0.tgz#d849a67b1251f73ab9071e9a3398d1eb538f189b"
+flow-bin@0.28.0:
+  version "0.28.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.28.0.tgz#f4b6bafa890bbc718fe8eeba84c5f86e152443e6"
   dependencies:
     bin-wrapper "^3.0.2"
     logalot "^2.0.0"
@@ -2508,8 +2508,8 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
     minimist "0.0.8"
 
 moment@2.x.x:
-  version "2.18.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.18.1.tgz#c36193dd3ce1c2eed2adb7c802dbbc77a81b1c0f"
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
 
 morgan@~1.6.1:
   version "1.6.1"
